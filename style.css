@@ -7,7 +7,7 @@ svg:hover{transition:all 200ms ease-in-out; color:white;}
 a{color: rgb(73, 22, 6)!important; padding: 3px; text-decoration: none!important;}
 ul{list-style: none;}
 img{max-width: 600px;margin: 5px;}
-
+li{display: inline;}
 .copyright{font-size: 9px;}
 @media (max-width: 500px) { p,h2,h1,h3,h4, p{text-align: center;font-size: smaller;}
  
