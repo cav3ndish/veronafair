@@ -1,11 +1,12 @@
-html,body { margin:0; padding:0; overflow-x:hidden!important; }
-.container{float:center;background-color: #6a6d6ebb;font-family: 'Monserrat', sans-serif;color: rgb(73, 22, 6); text-align: center;}
+
+body{margin:0;padding:0;}
+.container{background-color: #6a6d6ebb;width: 100%; font-family: 'Monserrat', sans-serif;color: rgb(73, 22, 6); text-align: center;}
 
 footer{height: 80px;left: 0px;margin-bottom: 0px;border-radius: 4px;}
 svg{color: rgb(73, 22, 6)!important; padding: 3px;}
 a{color: rgb(73, 22, 6)!important; padding: 3px; text-decoration: none!important;}
 ul{list-style: none;}
-img{max-width: 600px;margin: 5px;}
+img{max-width:800px;margin: 5px;}
 li{display: inline;text-decoration:overline;}
 li:hover{transition:all 200ms ease-in-out; color:white;}
 .copyright{font-size: 9px;}
