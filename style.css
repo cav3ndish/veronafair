@@ -1,13 +1,14 @@
 
-.container {background-color: #6a6d6ebb;font-family: 'Monserrat', sans-serif;color: rgb(73, 22, 6); text-align: center;}
+.container{float:center; max-width:2000px;background-color: #6a6d6ebb;font-family: 'Monserrat', sans-serif;color: rgb(73, 22, 6); text-align: center;}
 
 footer{height: 80px;left: 0px;margin-bottom: 0px;border-radius: 4px;}
-
-svg{color: rgb(73, 22, 6);}
-svg:hover{transition:all 200ms ease-in-out; color:#6a6d6ebb;}
-
+svg{color: rgb(73, 22, 6)!important; padding: 3px;}
+svg:hover{transition:all 200ms ease-in-out; color:white;}
+a{color: rgb(73, 22, 6)!important; padding: 3px; text-decoration: none!important;}
+ul{list-style: none;}
 img{max-width: 600px;margin: 5px;}
 
+.copyright{font-size: 9px;}
 @media (max-width: 500px) { p,h2,h1,h3,h4, p{text-align: center;font-size: smaller;}
-}
-
+ 
+       img{max-width: 300px; display: block;}}
