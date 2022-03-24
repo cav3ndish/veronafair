@@ -2,7 +2,7 @@
 body{margin:0;padding:0;}
 .container{background-color: #6a6d6ebb;width: 100%; font-family: 'Monserrat', sans-serif;color: rgb(73, 22, 6); text-align: center;}
 .card-img-top{max-width: 150px;display:block; margin:0 auto;}
-.card{text-align: center; background-color: #696a6bbb!important;}
+.card{text-align: center; background-color: #6a6d6e65!important;}
 footer{height: 80px;left: 0px;margin-bottom: 0px;border-radius: 4px;}
 svg{color: rgb(73, 22, 6)!important; padding: 3px;}
 a{color: rgb(73, 22, 6)!important; padding: 3px; text-decoration: none!important;}
